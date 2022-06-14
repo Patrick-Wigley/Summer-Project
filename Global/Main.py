@@ -1,0 +1,2 @@
+
+print("Both groups work")
