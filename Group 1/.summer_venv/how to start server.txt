@@ -1,0 +1,7 @@
+commands as follows
+
+
+cd summer_proj
+py manage.py runserver
+
+bam, the server up and running
